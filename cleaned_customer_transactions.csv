@@ -1,0 +1,748 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Revenue,Profit
+1001,2026-06-01,C001,Laptop,Electronics,Delhi,1,65000,8000
+1002,2026-06-03,C002,Phone,Electronics,delhi,2,50000,6000
+1007,2026-08-02,C241,Headphones,Electronics,Kolkata,6,39396,7334
+1011,2026-08-11,C026,Makeup Kit,Beauty,Delhi,5,20375,7418
+1014,2026-05-12,C446,Jeans,Apparel,Unknown,2,3440,867
+1020,2026-01-03,C184,Microwave,Home,Delhi,2,26576,5208
+1021,2026-08-05,C289,Skincare Set,beauty,Delhi,2,3766,1170
+1026,2026-07-04,C265,Table,Furniture,Delhi,4,46652,9568
+1027,2026-04-08,C157,Camera,Electronics,Bangalore,6,249834,34927
+1029,2026-07-03,C352,Skincare Set,Beauty,Hyderabad,1,3876,1283
+1031,2026-03-12,C449,Jeans,Apparel,Kolkata,5,12735,3881
+1035,2026-03-03,C306,T-Shirt,APPAREL,Bangalore,4,1276,325
+1036,2026-04-12,C221,Microwave,Home,Mumbai,3,33129,5845
+1037,2026-01-04,C465,Microwave,Home,Hyderabad,2,13338,2108
+1038,2026-08-07,C438,Tablet,Electronics,Chennai,6,180384,22751
+1039,2026-01-03,C026,Table,Furniture,Chennai,4,61344,12901
+1041,2026-06-02,C197,Desk,Furniture,Hyderabad,3,27354,6502
+1042,2026-05-01,C409,Camera,Electronics,Bangalore,2,79618,10513
+1043,2026-06-05,C476,Phone,Electronics,BANGALORE,4,77904,8105
+1046,2026-06-03,C198,Table,furniture,Pune,1,8718,1984
+1059,2026-07-11,C391,Smartwatch,Electronics,Delhi,3,49845,7937
+1060,2026-04-06,C468,Jeans,APPAREL,Delhi,2,4854,1604
+1065,2026-06-07,C472,Laptop,electronics,Bangalore,2,147182,13313
+1066,2026-06-12,C306,Skincare Set,Beauty,Kolkata,6,5562,1935
+1072,2026-01-02,C341,Skincare Set,Beauty,Chennai,4,9984,3748
+1073,2026-01-05,C262,Smartwatch,Electronics,Pune,3,20793,4206
+1075,2026-02-07,C262,Kurta,Apparel,Pune,3,3159,842
+1078,2026-07-01,C275,Phone,Electronics,Chennai,5,273590,31818
+1079,2026-06-04,C442,Shoes,Apparel,Kolkata,3,9951,2959
+1080,2026-07-09,C212,Microwave,Home,Hyderabad,3,30246,5502
+1082,2026-06-06,C012,Phone,Electronics,Hyderabad,5,102940,9187
+1083,2026-06-04,C389,Jeans,APPAREL,Mumbai,3,8163,2199
+1085,2026-02-05,C363,Phone,Electronics,Chennai,2,74614,7647
+1088,2026-04-01,C008,Laptop,Electronics,Chennai,1,76659,7849
+1091,2026-06-07,C204,T-Shirt,Apparel,Delhi,2,1716,446
+1094,2026-08-06,C183,Perfume,Beauty,Chennai,2,3612,1408
+1096,2026-02-03,C396,Makeup Kit,Beauty,Chennai,4,17488,5465
+1099,2026-06-05,C436,Vacuum Cleaner,HOME,Delhi,6,77628,18361
+1102,2026-05-10,C462,Vacuum Cleaner,Home,Hyderabad,5,20665,4018
+1103,2026-05-02,C249,Cookware Set,Home,Hyderabad,2,5584,1360
+1105,2026-08-04,C241,Sofa,Furniture,Pune,6,213714,39156
+1111,2026-08-12,C042,Headphones,Electronics,Hyderabad,5,37755,9199
+1112,2026-03-07,C068,Laptop,Electronics,Bangalore,1,56957,7936
+1113,2026-01-02,C068,Bookshelf,Furniture,Pune,6,61218,14011
+1115,2026-08-12,C070,Desk,Furniture,Kolkata,2,25668,6155
+1116,2026-05-11,C322,Shoes,Apparel,Hyderabad,5,9595,2636
+1118,2026-08-12,C183,Jacket,Apparel,Delhi,2,9298,2920
+1122,2026-08-06,C089,Makeup Kit,Beauty,Mumbai,4,13104,5205
+1123,2026-03-10,C102,Smartwatch,Electronics,Pune,1,16522,3122
+1124,2026-03-04,C022,Phone,Electronics,Pune,5,297340,27658
+1128,2026-07-04,C050,Vacuum Cleaner,Home,Mumbai,2,8298,1630
+1130,2026-08-08,C242,Perfume,Beauty,Unknown,1,1459,493
+1131,2026-07-12,C112,Phone,Electronics,Mumbai,6,294864,24412
+1136,2026-04-12,C402,Sofa,Furniture,Bangalore,1,20479,3675
+1139,2026-04-03,C442,Smartwatch,Electronics,Hyderabad,3,24150,4956
+1141,2026-07-06,C035,Shoes,APPAREL,Kolkata,5,14050,3640
+1142,2026-07-09,C141,Jeans,Apparel,Pune,4,8904,2616
+1146,2026-05-06,C113,Speaker,Electronics,Kolkata,3,12894,2694
+1154,2026-02-03,C135,Perfume,Beauty,Pune,6,11682,3505
+1156,2026-06-03,C447,Smartwatch,Electronics,Chennai,4,40472,6355
+1158,2026-05-10,C262,Desk,Furniture,bangalore,5,59475,13954
+1163,2026-01-12,C140,Phone,Electronics,kolkata,6,329832,32754
+1164,2026-07-07,C197,Jeans,Apparel,Pune,3,6420,1898
+1169,2026-06-11,C061,Speaker,Electronics,delhi,4,44432,7441
+1172,2026-06-02,C347,Vacuum Cleaner,Home,Pune,6,102852,16617
+1178,2026-07-06,C384,Phone,Electronics,Mumbai,5,132380,11417
+1179,2026-08-10,C227,Table,Furniture,Mumbai,1,11742,-506
+1185,2026-04-12,C186,Speaker,Electronics,Mumbai,2,5398,1183
+1187,2026-03-10,C306,Table,Furniture,Chennai,5,79885,15479
+1192,2026-06-09,C081,Speaker,Electronics,Kolkata,2,12270,2650
+1196,2026-05-09,C447,Chair,FURNITURE,Bangalore,3,19332,3992
+1198,2026-04-06,C262,Table,Furniture,Mumbai,2,30882,6768
+1200,2026-07-02,C476,Smartwatch,Electronics,Bangalore,4,59084,9544
+1204,2026-08-07,C438,Table,FURNITURE,Hyderabad,3,30981,5823
+1206,2026-02-03,C137,Makeup Kit,Beauty,Delhi,2,2848,1022
+1210,2026-05-02,C274,Headphones,Electronics,Pune,5,33610,6750
+1212,2026-05-10,C143,Camera,ELECTRONICS,Delhi,4,136512,20051
+1213,2026-04-09,C391,Shoes,Apparel,Hyderabad,4,23172,6275
+1214,2026-06-11,C096,Perfume,Beauty,Pune,4,16032,5535
+1217,2026-04-10,C257,Phone,Electronics,Bangalore,1,52377,6514
+1219,2026-02-09,C056,Sofa,furniture,Chennai,6,104640,16969
+1221,2026-06-09,C151,Chair,Furniture,Mumbai,3,17865,4573
+1224,2026-01-02,C248,Perfume,Beauty,Bangalore,1,1644,534
+1225,2026-02-04,C262,Makeup Kit,Beauty,Kolkata,1,2465,765
+1227,2026-07-12,C177,Camera,Electronics,Hyderabad,6,255204,39387
+1232,2026-04-05,C407,Cookware Set,Home,Hyderabad,5,15745,3059
+1233,2026-04-07,C135,Shoes,Apparel,Pune,4,18896,4232
+1234,2026-02-08,C350,Headphones,Electronics,kolkata,2,11460,2655
+1235,2026-06-11,C391,Perfume,Beauty,Pune,2,9192,3419
+1241,2026-07-11,C414,Skincare Set,Beauty,Chennai,4,12244,4263
+1242,2026-03-09,C474,Speaker,Electronics,Delhi,4,30176,5823
+1255,2026-08-07,C082,Headphones,electronics,Mumbai,3,12285,2715
+1256,2026-02-09,C409,Skincare Set,beauty,Bangalore,6,23220,7353
+1258,2026-03-08,C262,Perfume,Beauty,Kolkata,5,24700,8980
+1262,2026-05-01,C412,Smartwatch,Electronics,Delhi,3,50310,10361
+1263,2026-04-10,C230,Table,Furniture,Pune,1,7998,1896
+1264,2026-02-12,C197,Bookshelf,Furniture,Mumbai,1,10100,2238
+1267,2026-01-01,C385,Perfume,Beauty,Chennai,2,11306,4219
+1269,2026-06-05,C122,Shoes,Apparel,Hyderabad,2,4926,1183
+1272,2026-07-05,C268,Speaker,Electronics,Pune,4,41072,6615
+1277,2026-02-03,C314,Jeans,Apparel,Pune,5,5840,1629
+1279,2026-03-04,C070,Laptop,Electronics,Pune,3,226152,28985
+1280,2026-01-05,C400,Sofa,Furniture,Delhi,1,24998,3789
+1282,2026-05-06,C262,Chair,Furniture,Chennai,6,22890,5007
+1283,2026-02-08,C446,Desk,Furniture,Hyderabad,6,59718,15422
+1284,2026-02-05,C397,Smartwatch,Electronics,Delhi,5,52260,9934
+1286,2026-02-04,C158,Vacuum Cleaner,Home,Hyderabad,2,11498,1863
+1288,2026-01-10,C384,Cookware Set,Home,Chennai,4,16084,3893
+1292,2026-01-04,C442,Skincare Set,Beauty,Pune,2,3064,4449
+1299,2026-01-05,C402,Phone,Electronics,Hyderabad,2,106208,14010
+1300,2026-03-11,C074,Desk,Furniture,Delhi,3,16530,3471
+1301,2026-05-04,C121,Chair,Furniture,bangalore,3,14310,2776
+1302,2026-08-12,C368,Bookshelf,furniture,Mumbai,1,10734,2375
+1306,2026-05-05,C267,Perfume,beauty,Chennai,3,15036,5935
+1308,2026-05-05,C183,Speaker,ELECTRONICS,Chennai,3,16233,3106
+1311,2026-04-11,C289,Cookware Set,Home,Kolkata,2,17966,3764
+1312,2026-02-06,C210,Kurta,Apparel,Chennai,2,3912,4449
+1313,2026-06-04,C242,T-Shirt,apparel,Mumbai,6,6750,1995
+1314,2026-08-08,C470,Makeup Kit,Beauty,Mumbai,3,8046,2877
+1316,2026-07-08,C291,Makeup Kit,Beauty,Bangalore,3,6552,2420
+1320,2026-07-11,C442,Shoes,Apparel,Hyderabad,1,5352,1689
+1324,2026-01-01,C456,Jacket,Apparel,delhi,4,9576,2495
+1326,2026-04-09,C075,Desk,Furniture,bangalore,4,23616,6062
+1328,2026-07-08,C306,Laptop,ELECTRONICS,Delhi,3,259881,27113
+1333,2026-05-08,C238,Tablet,Electronics,Kolkata,5,134290,21379
+1343,2026-02-07,C034,Cookware Set,Home,Bangalore,6,51750,12971
+1345,2026-08-05,C404,Vacuum Cleaner,home,Hyderabad,4,54884,11109
+1348,2026-06-08,C207,Perfume,Beauty,BANGALORE,3,17697,6724
+1353,2026-08-11,C379,Vacuum Cleaner,Home,Chennai,6,52278,10421
+1355,2026-04-01,C119,Headphones,Electronics,Kolkata,6,18006,3779
+1357,2026-07-10,C070,T-Shirt,Apparel,Chennai,1,1138,286
+1358,2026-06-01,C090,Perfume,beauty,mumbai,3,6678,2658
+1360,2026-05-10,C221,Makeup Kit,Beauty,Kolkata,5,6395,2288
+1366,2026-08-07,C336,Jacket,Apparel,pune,3,12633,3795
+1367,2026-02-10,C092,Phone,Electronics,Mumbai,3,174816,18502
+1369,2026-05-12,C074,T-Shirt,Apparel,BANGALORE,2,1106,311
+1373,2026-08-05,C253,Makeup Kit,Beauty,chennai,6,19092,7355
+1380,2026-02-11,C100,Speaker,Electronics,Chennai,6,51936,8786
+1381,2026-02-10,C018,Desk,Furniture,Chennai,5,51765,9430
+1382,2026-04-11,C245,Vacuum Cleaner,Home,Pune,5,76175,17912
+1387,2026-02-06,C262,Cookware Set,Home,Chennai,4,29992,7721
+1388,2026-02-08,C231,Smartwatch,Electronics,Chennai,3,44445,7546
+1392,2026-06-04,C093,Phone,Electronics,Hyderabad,4,133172,18642
+1396,2026-04-11,C141,Phone,electronics,kolkata,4,156268,18697
+1399,2026-01-06,C012,Camera,ELECTRONICS,Delhi,6,194010,21836
+1400,2026-05-07,C077,Makeup Kit,Beauty,Hyderabad,4,11724,4044
+1403,2026-02-10,C012,Makeup Kit,Beauty,Hyderabad,4,17648,6445
+1406,2026-02-09,C341,Cookware Set,Home,Pune,1,8747,1929
+1407,2026-07-12,C010,Smartwatch,Electronics,Delhi,4,66492,10004
+1409,2026-07-04,C403,Phone,Electronics,Chennai,6,324234,37116
+1411,2026-03-08,C326,Blender,Home,Bangalore,6,27186,5481
+1413,2026-04-03,C052,Perfume,Beauty,Hyderabad,5,15575,5115
+1418,2026-06-11,C205,Makeup Kit,Beauty,Bangalore,5,18605,6301
+1419,2026-01-05,C338,Blender,Home,Hyderabad,5,9240,1935
+1421,2026-04-07,C154,Sofa,Furniture,mumbai,1,20053,3579
+1422,2026-01-05,C447,Phone,Electronics,Mumbai,5,252030,27853
+1425,2026-07-01,C113,Microwave,Home,Delhi,4,28056,5148
+1430,2026-03-12,C446,Camera,ELECTRONICS,Pune,6,386496,44514
+1434,2026-06-08,C198,T-Shirt,Apparel,Delhi,1,872,292
+1443,2026-03-02,C391,Shoes,Apparel,Chennai,6,24372,6539
+1449,2026-04-08,C227,Kurta,Apparel,Pune,5,6065,1530
+1450,2026-04-09,C012,Blender,Home,Chennai,1,2846,558
+1451,2026-02-03,C140,Skincare Set,Beauty,KOLKATA,1,2309,732
+1454,2026-04-05,C137,Kurta,apparel,Hyderabad,2,4826,1338
+1455,2026-02-04,C070,Bookshelf,Furniture,Chennai,3,17094,4449
+1459,2026-04-10,C088,T-Shirt,Apparel,KOLKATA,3,1890,508
+1461,2026-03-01,C010,Perfume,Beauty,Chennai,6,13728,4990
+1465,2026-02-12,C141,Makeup Kit,Beauty,Chennai,6,10854,3447
+1467,2026-05-06,C325,Cookware Set,Home,Chennai,2,15712,3022
+1468,2026-04-09,C414,Headphones,Electronics,Chennai,1,4652,773
+1470,2026-07-06,C004,Kurta,Apparel,Chennai,1,1661,560
+1471,2026-07-07,C070,Unknown,Home,Pune,2,18814,3683
+1472,2026-06-09,C447,Speaker,ELECTRONICS,Hyderabad,4,19924,3142
+1474,2026-04-02,C300,Cookware Set,Home,Kolkata,3,17940,3712
+1475,2026-05-12,C303,Laptop,Electronics,Chennai,4,330112,44730
+1476,2026-05-02,C337,Vacuum Cleaner,Home,Pune,6,59406,14112
+1478,2026-03-07,C452,Tablet,Electronics,Chennai,2,45948,6671
+1479,2026-04-08,C221,Skincare Set,Beauty,Delhi,5,16975,5246
+1481,2026-05-08,C262,Kurta,Apparel,Chennai,3,6699,2208
+1491,2026-04-02,C367,Bookshelf,Furniture,Kolkata,3,26895,5292
+1495,2026-03-08,C336,Sofa,furniture,Kolkata,1,44378,7644
+1496,2026-03-12,C465,Smartwatch,Electronics,Hyderabad,4,47044,9445
+1497,2026-05-07,C377,Perfume,Beauty,Pune,6,11472,3907
+1498,2026-07-11,C115,T-Shirt,Apparel,Hyderabad,6,2634,794
+1500,2026-05-12,C140,Tablet,Electronics,bangalore,2,65330,9895
+1503,2026-07-02,C250,Camera,ELECTRONICS,Delhi,1,28760,4159
+1504,2026-06-02,C299,Kurta,Apparel,Kolkata,6,13956,3672
+1506,2026-06-12,C391,Speaker,Electronics,Mumbai,5,22180,3532
+1508,2026-03-02,C041,Tablet,Electronics,CHENNAI,4,107652,11485
+1509,2026-07-05,C373,Kurta,Apparel,Delhi,2,3778,989
+1510,2026-05-04,C250,Blender,Home,Hyderabad,2,4570,991
+1514,2026-01-05,C412,Desk,Furniture,Bangalore,6,83994,16016
+1516,2026-06-05,C359,Desk,Furniture,Mumbai,1,13125,2556
+1517,2026-03-05,C141,T-Shirt,Apparel,Mumbai,6,4272,1293
+1522,2026-06-04,C070,Smartwatch,Electronics,CHENNAI,4,20820,3745
+1523,2026-04-03,C470,Vacuum Cleaner,home,Mumbai,5,60720,12108
+1531,2026-05-09,C357,Kurta,Apparel,Chennai,1,1194,379
+1532,2026-02-09,C427,Vacuum Cleaner,Home,Kolkata,3,33993,6360
+1534,2026-06-09,C249,Jacket,Apparel,Bangalore,4,16652,5728
+1536,2026-05-05,C476,Headphones,Electronics,Bangalore,6,35298,6935
+1540,2026-08-08,C460,Smartwatch,ELECTRONICS,Bangalore,6,80226,17068
+1542,2026-04-08,C279,Tablet,Electronics,HYDERABAD,4,114268,13841
+1554,2026-04-06,C413,Shoes,APPAREL,Bangalore,3,17841,5075
+1556,2026-01-06,C299,Vacuum Cleaner,Home,Chennai,4,36824,6475
+1557,2026-07-12,C121,Microwave,Home,Delhi,3,21441,3519
+1559,2026-04-08,C043,Chair,Furniture,mumbai,6,36126,-2214
+1561,2026-04-09,C179,Headphones,Electronics,Bangalore,6,13068,3052
+1562,2026-05-12,C368,Camera,Electronics,Pune,5,268400,39086
+1563,2026-04-01,C035,Headphones,Electronics,BANGALORE,6,24096,5005
+1565,2026-07-07,C266,Tablet,Electronics,HYDERABAD,2,37278,3846
+1567,2026-05-01,C163,Jeans,APPAREL,Mumbai,6,16458,4449
+1578,2026-04-11,C402,Smartwatch,electronics,Bangalore,6,19266,3730
+1579,2026-05-11,C479,Kurta,Apparel,CHENNAI,2,4646,1282
+1580,2026-01-03,C184,Jacket,Apparel,CHENNAI,6,11454,3428
+1582,2026-07-01,C211,Vacuum Cleaner,Home,hyderabad,4,62868,10763
+1586,2026-08-07,C476,Smartwatch,ELECTRONICS,Delhi,4,21432,4238
+1592,2026-01-12,C055,Chair,Furniture,delhi,2,12766,3205
+1593,2026-04-04,C185,Chair,Furniture,Bangalore,4,27684,6437
+1594,2026-07-09,C151,Vacuum Cleaner,Home,Mumbai,3,27672,5542
+1595,2026-06-06,C155,Makeup Kit,Beauty,pune,1,1962,716
+1596,2026-03-09,C122,Kurta,Apparel,Chennai,2,2042,645
+1598,2026-06-07,C009,Shoes,Apparel,Bangalore,4,19312,6034
+1602,2026-01-08,C348,Camera,Electronics,Bangalore,6,283560,35611
+1611,2026-06-03,C306,Sofa,Furniture,Bangalore,2,88022,18990
+1612,2026-08-05,C085,Blender,HOME,Kolkata,1,3500,567
+1614,2026-03-09,C122,Phone,Electronics,Chennai,6,276978,36141
+1615,2026-06-07,C468,Speaker,Electronics,Hyderabad,2,10506,1641
+1617,2026-01-08,C306,Jeans,Apparel,BANGALORE,4,5096,1761
+1621,2026-07-07,C117,Sofa,Furniture,Delhi,6,138618,28069
+1623,2026-01-07,C395,Headphones,Electronics,Mumbai,5,18905,4551
+1624,2026-07-05,C183,Desk,Furniture,Chennai,6,60534,14817
+1629,2026-08-11,C479,Perfume,Beauty,Mumbai,1,5605,1734
+1632,2026-02-12,C390,Jeans,Apparel,Chennai,3,6117,1601
+1635,2026-01-10,C411,Perfume,Beauty,Hyderabad,6,10008,3826
+1640,2026-01-10,C285,T-Shirt,Apparel,Mumbai,3,1512,422
+1646,2026-02-02,C472,Skincare Set,Beauty,Kolkata,3,2460,822
+1647,2026-04-03,C436,Kurta,Apparel,Pune,3,6834,2304
+1648,2026-03-08,C407,Cookware Set,Home,Kolkata,1,7288,1603
+1650,2026-08-11,C272,T-Shirt,Apparel,Bangalore,1,918,312
+1652,2026-02-07,C215,Laptop,Electronics,Kolkata,3,175164,18708
+1656,2026-06-02,C250,Skincare Set,Beauty,Mumbai,4,13012,4729
+1657,2026-05-05,C044,Blender,Home,Delhi,3,8754,1506
+1660,2026-08-12,C042,Bookshelf,Furniture,Pune,1,9441,2424
+1661,2026-06-03,C428,Blender,Home,Pune,4,16748,3895
+1662,2026-07-05,C250,Laptop,Electronics,Bangalore,2,144620,17507
+1664,2026-06-05,C296,Chair,Furniture,Chennai,1,3056,716
+1665,2026-03-09,C413,Laptop,Electronics,Chennai,6,233508,24262
+1669,2026-02-08,C140,Smartwatch,Electronics,Kolkata,3,45801,9839
+1671,2026-06-05,C402,Blender,Home,Pune,1,4768,979
+1673,2026-03-06,C428,Jacket,Apparel,Mumbai,5,11900,-544
+1674,2026-05-05,C439,Jacket,apparel,Hyderabad,5,17395,6003
+1677,2026-04-01,C359,Chair,Furniture,Bangalore,3,18111,3743
+1678,2026-08-08,C349,Jeans,Apparel,Pune,6,9768,3142
+1680,2026-03-08,C387,Jeans,Apparel,Bangalore,2,2206,722
+1681,2026-06-04,C079,Perfume,Beauty,Delhi,1,3771,1267
+1685,2026-01-07,C413,Chair,Furniture,Kolkata,3,22083,5150
+1687,2026-02-01,C177,Kurta,Apparel,Delhi,6,14094,4059
+1691,2026-01-12,C415,Tablet,Electronics,Pune,4,86748,11929
+1692,2026-01-01,C257,Makeup Kit,Beauty,Kolkata,1,1061,341
+1693,2026-07-10,C002,Table,furniture,Mumbai,5,59945,13995
+1694,2026-02-07,C151,Cookware Set,Home,Delhi,3,10536,2150
+1695,2026-06-10,C308,Phone,Electronics,Hyderabad,4,213640,19627
+1702,2026-07-04,C054,Bookshelf,Furniture,Delhi,5,32745,7915
+1703,2026-08-10,C391,Phone,Electronics,Chennai,3,58182,6141
+1704,2026-01-04,C266,Skincare Set,BEAUTY,Chennai,4,10108,3138
+1705,2026-06-01,C473,Chair,Furniture,Kolkata,5,32765,6170
+1707,2026-03-05,C315,T-Shirt,Apparel,hyderabad,2,1760,550
+1708,2026-04-01,C465,Bookshelf,Furniture,Chennai,6,36930,7121
+1709,2026-02-10,C053,Chair,Furniture,Bangalore,1,8914,1894
+1710,2026-02-07,C465,Tablet,Electronics,mumbai,5,189725,22344
+1711,2026-03-12,C353,Kurta,apparel,mumbai,1,2330,772
+1712,2026-08-06,C035,Perfume,Beauty,Mumbai,2,9614,3091
+1713,2026-03-05,C155,Microwave,Home,Chennai,6,65778,10249
+1715,2026-07-06,C035,T-Shirt,apparel,DELHI,2,644,196
+1717,2026-05-07,C183,Phone,Electronics,Hyderabad,5,99215,8359
+1720,2026-02-08,C442,Headphones,Electronics,Mumbai,5,27905,4795
+1724,2026-07-11,C068,Jacket,Apparel,Delhi,3,11394,3291
+1727,2026-07-08,C012,Speaker,Electronics,Chennai,3,25755,4118
+1732,2026-07-04,C234,Bookshelf,Furniture,Hyderabad,1,11137,2756
+1733,2026-05-02,C141,Desk,Furniture,Delhi,1,8828,1591
+1737,2026-04-09,C082,T-Shirt,Apparel,Bangalore,2,1404,366
+1738,2026-05-05,C400,Jeans,Apparel,Delhi,4,6020,1954
+1740,2026-06-10,C117,Bookshelf,Furniture,Kolkata,4,31564,6123
+1742,2026-07-02,C349,Jacket,Apparel,HYDERABAD,3,5544,1424
+1745,2026-08-09,C470,Bookshelf,Furniture,Bangalore,4,29340,5591
+1747,2026-07-03,C227,Jeans,apparel,Hyderabad,6,7398,1891
+1749,2026-07-08,C221,Camera,Electronics,Hyderabad,1,32333,3856
+1752,2026-04-04,C141,Jeans,apparel,Chennai,4,10796,3200
+1753,2026-07-05,C476,Skincare Set,Beauty,Mumbai,2,3376,1144
+1754,2026-02-10,C216,Speaker,Electronics,Chennai,1,7789,4449
+1757,2026-03-12,C114,Jacket,Apparel,Delhi,1,3073,959
+1758,2026-06-02,C013,Phone,Electronics,Chennai,6,73200,9478
+1761,2026-02-03,C438,Makeup Kit,Beauty,Chennai,6,16668,5659
+1763,2026-05-09,C475,Jeans,Apparel,Mumbai,3,5193,1633
+1771,2026-08-12,C070,Laptop,Electronics,Delhi,4,248112,20046
+1772,2026-04-06,C014,Laptop,Electronics,Hyderabad,5,448740,50948
+1774,2026-08-06,C308,Smartwatch,Electronics,Bangalore,6,109728,20600
+1775,2026-05-06,C402,Camera,ELECTRONICS,Pune,1,47458,7566
+1779,2026-07-05,C352,Blender,Home,pune,6,23424,4405
+1780,2026-01-08,C227,Tablet,Electronics,Chennai,3,68727,8807
+1786,2026-08-09,C402,Smartwatch,Electronics,Bangalore,4,39988,7327
+1787,2026-04-06,C158,Headphones,Electronics,Kolkata,6,46026,9783
+1789,2026-08-12,C005,Smartwatch,Electronics,Pune,3,36267,6619
+1790,2026-05-12,C039,Blender,Home,Hyderabad,6,28308,5592
+1792,2026-03-04,C248,Perfume,Beauty,Kolkata,2,9980,3167
+1795,2026-08-04,C359,Tablet,Electronics,Hyderabad,2,32616,-1313
+1797,2026-06-07,C395,Chair,Furniture,BANGALORE,2,16996,3847
+1798,2026-04-07,C021,Table,Furniture,Mumbai,4,52616,11676
+1800,2026-01-10,C053,Jacket,Apparel,Chennai,4,7464,2125
+1801,2026-02-12,C128,Chair,Furniture,DELHI,2,7512,1684
+1804,2026-01-01,C251,Jacket,Apparel,MUMBAI,2,7988,2455
+1805,2026-02-12,C309,Jacket,Apparel,Hyderabad,5,18585,6298
+1806,2026-06-01,C362,Phone,Electronics,Mumbai,3,94674,12709
+1808,2026-01-03,C004,Desk,Furniture,Delhi,4,48400,9850
+1810,2026-06-07,C262,Shoes,Apparel,Delhi,5,28195,9018
+1811,2026-07-06,C049,Phone,Electronics,Delhi,2,49492,4534
+1813,2026-06-01,C014,Smartwatch,Electronics,Hyderabad,6,72846,14895
+1814,2026-06-09,C044,Tablet,Electronics,Pune,2,44348,5096
+1820,2026-02-01,C106,Smartwatch,Electronics,hyderabad,1,4925,779
+1830,2026-02-11,C442,Jacket,APPAREL,Hyderabad,1,2959,844
+1834,2026-05-08,C409,T-Shirt,Apparel,Bangalore,1,356,112
+1838,2026-03-11,C412,Speaker,Electronics,Hyderabad,6,22206,4449
+1839,2026-02-01,C239,Camera,Electronics,Chennai,1,48162,6743
+1850,2026-07-09,C178,Jacket,apparel,Unknown,4,11416,3429
+1851,2026-07-05,C093,Laptop,Electronics,HYDERABAD,2,177782,22089
+1855,2026-06-05,C273,Chair,Furniture,Hyderabad,1,7588,1917
+1856,2026-02-07,C367,Blender,Home,Kolkata,5,18505,3347
+1858,2026-04-08,C479,Vacuum Cleaner,Home,kolkata,6,42714,9586
+1859,2026-06-09,C476,Shoes,Apparel,Hyderabad,3,9408,2583
+1860,2026-02-01,C325,Jacket,Apparel,Delhi,4,6428,1638
+1861,2026-08-08,C105,Table,Furniture,kolkata,3,36162,7568
+1872,2026-02-07,C193,Microwave,home,Bangalore,3,26100,4483
+1873,2026-05-07,C476,Bookshelf,Furniture,Bangalore,1,6090,1435
+1883,2026-02-07,C141,Skincare Set,Beauty,Mumbai,3,3546,1199
+1884,2026-02-12,C296,Bookshelf,Furniture,Kolkata,1,6063,1468
+1887,2026-06-02,C314,Makeup Kit,BEAUTY,Bangalore,3,6318,2208
+1888,2026-03-09,C315,Headphones,electronics,Hyderabad,6,39738,9627
+1893,2026-01-08,C092,Makeup Kit,Beauty,Pune,6,22878,7398
+1895,2026-03-09,C476,Blender,Home,Mumbai,2,4478,841
+1899,2026-02-08,C131,Jacket,Apparel,mumbai,6,13584,4232
+1901,2026-04-06,C233,Table,Furniture,delhi,3,55137,11604
+1907,2026-04-01,C476,Shoes,Apparel,Delhi,4,18656,4189
+1912,2026-05-06,C069,Laptop,ELECTRONICS,Bangalore,1,69195,8163
+1914,2026-03-04,C241,Speaker,Electronics,hyderabad,1,4190,4449
+1916,2026-07-03,C039,Kurta,Apparel,Mumbai,1,1266,327
+1928,2026-08-05,C379,Laptop,Electronics,PUNE,4,303928,41126
+1930,2026-02-01,C246,T-Shirt,Apparel,bangalore,5,3375,1101
+1932,2026-04-05,C406,Speaker,Electronics,Pune,6,12744,2545
+1937,2026-08-01,C140,Skincare Set,BEAUTY,Pune,2,6572,2512
+1938,2026-01-10,C034,Laptop,electronics,delhi,3,184227,15845
+1939,2026-03-07,C262,Microwave,Home,Mumbai,5,30565,5311
+1946,2026-05-10,C257,Camera,Electronics,Chennai,3,177114,25836
+1947,2026-05-07,C023,Kurta,Apparel,KOLKATA,6,14016,4394
+1949,2026-02-10,C476,Vacuum Cleaner,Home,Bangalore,4,41148,8954
+1950,2026-03-08,C474,Chair,Furniture,Pune,3,22335,4020
+1952,2026-04-03,C470,Camera,Electronics,Hyderabad,2,67962,-2120
+1953,2026-07-11,C321,Sofa,furniture,chennai,1,35194,6062
+1955,2026-04-08,C241,Cookware Set,Home,Mumbai,6,30504,6822
+1957,2026-03-08,C249,Headphones,Electronics,Chennai,6,44790,10447
+1961,2026-05-02,C156,Cookware Set,Home,Bangalore,1,2075,485
+1962,2026-01-02,C363,Bookshelf,Furniture,Kolkata,1,4849,981
+1963,2026-03-11,C108,Laptop,Electronics,Delhi,5,304785,33426
+1965,2026-07-12,C476,Blender,Home,DELHI,3,14562,2759
+1967,2026-01-08,C342,Makeup Kit,Beauty,Hyderabad,6,29100,11103
+1968,2026-04-09,C232,Blender,Home,Chennai,1,3444,554
+1969,2026-08-12,C439,Chair,Furniture,bangalore,5,20930,5263
+1970,2026-05-02,C090,Sofa,Furniture,Kolkata,4,105264,17844
+1972,2026-07-11,C420,Perfume,Beauty,KOLKATA,3,15426,4832
+1975,2026-07-05,C250,Laptop,Electronics,Kolkata,5,395025,53396
+1976,2026-08-02,C309,Bookshelf,Furniture,Hyderabad,1,8830,1622
+1979,2026-02-10,C013,Microwave,Home,Bangalore,4,22748,3205
+1981,2026-04-08,C354,Microwave,home,Chennai,1,14743,2083
+1984,2026-08-11,C331,Table,Furniture,hyderabad,3,24480,5490
+1988,2026-05-04,C330,Headphones,Electronics,Hyderabad,6,26826,6215
+1990,2026-03-08,C028,Jacket,Apparel,Pune,6,11160,3675
+1991,2026-02-08,C476,Blender,Home,Hyderabad,2,8608,1699
+1992,2026-04-08,C214,Table,Furniture,Kolkata,6,78198,17755
+1994,2026-05-10,C396,Laptop,Electronics,Kolkata,3,255534,21094
+1999,2026-06-07,C170,Desk,Furniture,Mumbai,2,24038,5502
+2004,2026-01-02,C229,Skincare Set,Beauty,Delhi,1,3409,1207
+2006,2026-07-12,C061,Perfume,Beauty,MUMBAI,3,16395,5337
+2008,2026-07-12,C002,T-Shirt,Apparel,Mumbai,3,2589,836
+2009,2026-08-10,C167,Chair,furniture,Chennai,6,47676,8837
+2011,2026-06-12,C205,Camera,Electronics,Hyderabad,6,326394,33932
+2014,2026-07-09,C236,T-Shirt,Apparel,Hyderabad,6,6360,1779
+2015,2026-04-11,C125,Cookware Set,Home,chennai,2,13296,3317
+2020,2026-03-10,C338,Desk,Furniture,Kolkata,2,18542,4745
+2021,2026-04-03,C309,Makeup Kit,Beauty,Chennai,5,18825,6270
+2023,2026-03-12,C198,Cookware Set,HOME,Bangalore,3,10554,2402
+2025,2026-04-02,C262,Camera,Electronics,Hyderabad,4,228520,31871
+2026,2026-03-08,C248,Tablet,Electronics,Delhi,5,148175,23108
+2028,2026-04-05,C179,Skincare Set,Beauty,Bangalore,2,54340,17816
+2030,2026-06-03,C208,Camera,Electronics,Pune,6,392940,62716
+2032,2026-05-01,C262,Shoes,Apparel,Kolkata,1,3353,896
+2035,2026-07-09,C409,Table,Furniture,MUMBAI,2,34636,6626
+2036,2026-06-12,C367,Skincare Set,Beauty,Hyderabad,2,3062,1026
+2038,2026-01-12,C010,Skincare Set,Beauty,Delhi,4,6056,1851
+2041,2026-05-06,C325,Smartwatch,Electronics,Bangalore,2,21966,3956
+2048,2026-08-08,C053,Sofa,Furniture,BANGALORE,3,118266,23609
+2049,2026-07-05,C248,Sofa,Furniture,Mumbai,3,131217,19840
+2050,2026-05-03,C136,Skincare Set,Beauty,Unknown,5,15930,5208
+2052,2026-04-11,C155,Makeup Kit,Beauty,Kolkata,1,4370,1703
+2056,2026-02-11,C306,Vacuum Cleaner,Home,Delhi,4,44712,7384
+2058,2026-05-03,C141,Camera,Electronics,Delhi,2,65856,8436
+2059,2026-03-11,C219,Bookshelf,Furniture,Mumbai,1,5421,1136
+2061,2026-06-03,C093,Makeup Kit,Beauty,Chennai,3,11115,3848
+2064,2026-06-11,C262,Shoes,Apparel,Delhi,3,16584,5171
+2067,2026-05-10,C278,Sofa,Furniture,Chennai,1,24985,4654
+2068,2026-05-08,C136,Bookshelf,Furniture,Mumbai,4,32280,7623
+2071,2026-08-06,C406,Kurta,Apparel,DELHI,3,5628,1770
+2076,2026-01-06,C304,Tablet,electronics,Delhi,5,148155,21574
+2079,2026-05-10,C120,T-Shirt,Apparel,Mumbai,2,2328,789
+2080,2026-07-03,C114,Vacuum Cleaner,Home,kolkata,4,27600,4647
+2081,2026-05-07,C306,Blender,Home,Pune,2,5860,1153
+2083,2026-04-07,C421,Perfume,Beauty,Delhi,5,23160,8182
+2085,2026-01-01,C184,Jeans,Apparel,Hyderabad,2,1784,557
+2089,2026-08-10,C412,Blender,Home,Kolkata,6,28770,5713
+2090,2026-04-02,C226,Jeans,Apparel,PUNE,1,9930,2528
+2101,2026-08-11,C012,Jeans,Apparel,HYDERABAD,3,5013,1618
+2107,2026-08-02,C297,Shoes,Apparel,Chennai,1,1679,405
+2110,2026-01-11,C070,Makeup Kit,Beauty,Delhi,2,8448,2543
+2112,2026-07-12,C212,Kurta,Apparel,Mumbai,1,1044,314
+2114,2026-03-07,C367,Shoes,apparel,Mumbai,2,9486,2237
+2115,2026-02-01,C357,T-Shirt,apparel,Delhi,1,938,277
+2119,2026-07-11,C368,Tablet,Electronics,Pune,4,95516,13939
+2123,2026-08-04,C048,Smartwatch,Electronics,Mumbai,5,91285,18358
+2124,2026-01-04,C446,Sofa,FURNITURE,delhi,6,216942,35159
+2128,2026-04-12,C185,Headphones,electronics,Chennai,4,14412,2748
+2134,2026-02-12,C266,Blender,Home,Bangalore,3,10017,4449
+2135,2026-03-03,C442,Skincare Set,Beauty,hyderabad,1,2271,681
+2136,2026-05-07,C325,Laptop,Electronics,Kolkata,5,204485,17820
+2137,2026-05-03,C262,Microwave,Home,Hyderabad,5,62665,11095
+2140,2026-01-05,C339,Laptop,Electronics,Chennai,5,373970,36276
+2141,2026-03-09,C479,Blender,Home,DELHI,2,4128,830
+2144,2026-01-08,C375,Smartwatch,Electronics,Kolkata,2,36032,5631
+2146,2026-05-06,C035,T-Shirt,Apparel,Unknown,3,2076,524
+2154,2026-01-04,C237,Shoes,Apparel,Chennai,1,2659,850
+2162,2026-05-09,C075,Camera,electronics,Mumbai,6,325524,49989
+2163,2026-04-10,C479,Sofa,Furniture,Delhi,5,207605,42970
+2168,2026-04-11,C314,Sofa,Furniture,Mumbai,2,88238,18308
+2173,2026-08-02,C396,Shoes,Apparel,bangalore,2,9812,2553
+2175,2026-08-01,C018,Laptop,electronics,Mumbai,2,94534,8584
+2177,2026-07-09,C140,Speaker,Electronics,Bangalore,4,45848,7240
+2178,2026-08-09,C188,Table,furniture,Delhi,3,48264,11844
+2181,2026-03-08,C273,Laptop,Electronics,Hyderabad,1,72030,9411
+2183,2026-02-11,C205,Chair,Furniture,Bangalore,6,51564,10213
+2185,2026-04-09,C303,Kurta,Apparel,Bangalore,5,9155,3159
+2186,2026-08-07,C260,Table,Furniture,hyderabad,2,26684,6907
+2187,2026-07-09,C454,Smartwatch,Electronics,Hyderabad,6,96372,15149
+2189,2026-06-10,C479,Shoes,Apparel,Pune,5,23880,5876
+2194,2026-08-01,C412,Table,Furniture,Mumbai,1,19944,4855
+2196,2026-01-10,C442,Camera,Electronics,kolkata,2,61012,7798
+2198,2026-07-03,C406,Smartwatch,electronics,Pune,1,9736,2064
+2201,2026-08-12,C044,Sofa,Furniture,Bangalore,1,40184,6643
+2202,2026-05-09,C212,Makeup Kit,Beauty,Mumbai,2,5424,4449
+2214,2026-05-09,C391,Table,Furniture,Mumbai,5,90825,21134
+2215,2026-07-05,C089,Vacuum Cleaner,Home,Chennai,3,44601,7542
+2217,2026-02-07,C208,Headphones,Electronics,Chennai,2,11662,2852
+2219,2026-04-08,C192,Phone,Electronics,Kolkata,1,27735,2978
+2226,2026-03-07,C227,Makeup Kit,Beauty,Kolkata,3,12234,4449
+2229,2026-07-01,C230,Vacuum Cleaner,Home,Pune,2,9086,1846
+2231,2026-05-03,C322,Phone,Electronics,Hyderabad,3,115095,15280
+2232,2026-08-06,C115,Makeup Kit,Beauty,Hyderabad,3,13437,4447
+2233,2026-08-02,C309,Jacket,Apparel,Chennai,6,13164,4594
+2234,2026-01-07,C325,Microwave,Home,Mumbai,2,16880,2555
+2238,2026-04-11,C242,Laptop,Electronics,Hyderabad,3,128046,17808
+2239,2026-06-05,C034,Makeup Kit,Beauty,Hyderabad,5,12610,4468
+2240,2026-05-10,C479,Kurta,Apparel,bangalore,6,10974,2967
+2242,2026-01-09,C359,Headphones,Electronics,Delhi,2,9386,1498
+2244,2026-02-03,C127,Smartwatch,Electronics,Hyderabad,1,17542,2986
+2246,2026-01-03,C063,Phone,Electronics,Chennai,4,151756,19690
+2247,2026-03-01,C155,Microwave,Home,Delhi,1,8887,1320
+2248,2026-02-05,C053,Speaker,electronics,Chennai,5,53695,8554
+2252,2026-07-01,C479,Vacuum Cleaner,Home,Delhi,1,9177,1722
+2254,2026-04-06,C307,Sofa,Furniture,Pune,5,110190,19523
+2258,2026-05-04,C227,Laptop,Electronics,Delhi,2,99878,9040
+2261,2026-05-02,C237,Laptop,Electronics,Pune,2,143204,13501
+2262,2026-02-10,C104,Phone,electronics,Mumbai,3,39636,5236
+2266,2026-02-05,C377,Blender,Home,Pune,6,11562,2116
+2267,2026-02-02,C391,Shoes,Apparel,Hyderabad,4,13836,4274
+2269,2026-08-08,C220,Blender,Home,Pune,4,6400,1190
+2271,2026-08-08,C010,Shoes,APPAREL,chennai,3,15129,4827
+2275,2026-04-01,C264,Jacket,Apparel,Pune,5,17470,4843
+2277,2026-01-11,C006,Table,Furniture,Bangalore,1,19130,3581
+2279,2026-07-08,C476,Makeup Kit,Beauty,Mumbai,3,12666,4906
+2284,2026-06-10,C271,Blender,Home,Kolkata,1,4952,875
+2285,2026-06-11,C241,Blender,Home,Mumbai,5,17980,3172
+2287,2026-05-11,C052,Laptop,Electronics,Chennai,5,187005,15488
+2291,2026-08-12,C379,Phone,Electronics,Mumbai,4,77840,9730
+2294,2026-07-08,C204,Blender,Home,Pune,6,9924,2246
+2295,2026-06-11,C242,Vacuum Cleaner,Home,Hyderabad,2,27106,5180
+2297,2026-06-01,C446,Sofa,Furniture,Delhi,3,127356,23378
+2299,2026-01-09,C397,Camera,ELECTRONICS,CHENNAI,4,112272,13770
+2300,2026-05-02,C161,Smartwatch,Electronics,Mumbai,2,23606,4440
+2301,2026-02-05,C353,Bookshelf,Furniture,Mumbai,3,32010,6464
+2304,2026-03-12,C421,Table,Furniture,Pune,6,61146,12959
+2305,2026-01-03,C020,Headphones,Electronics,Bangalore,3,18759,3093
+2313,2026-06-10,C035,T-Shirt,Apparel,Mumbai,6,2130,656
+2314,2026-03-05,C262,Chair,Furniture,Bangalore,1,5741,1491
+2316,2026-04-10,C379,Bookshelf,Furniture,Mumbai,6,57882,12306
+2320,2026-04-12,C047,Jacket,Apparel,KOLKATA,1,3777,1090
+2324,2026-08-10,C006,Camera,Electronics,chennai,4,206360,23175
+2325,2026-01-10,C472,Phone,Electronics,Delhi,5,89865,7245
+2326,2026-07-10,C379,T-Shirt,Apparel,pune,1,713,249
+2332,2026-06-03,C095,Vacuum Cleaner,Home,Bangalore,6,103500,22418
+2341,2026-07-04,C155,Vacuum Cleaner,Home,Hyderabad,6,46344,9584
+2344,2026-04-12,C198,Headphones,Electronics,Mumbai,5,10330,2478
+2345,2026-07-01,C111,Jacket,APPAREL,Pune,3,14361,3603
+2346,2026-02-12,C063,Bookshelf,Furniture,Bangalore,4,35672,7946
+2347,2026-08-01,C307,Camera,ELECTRONICS,Mumbai,5,210735,24754
+2352,2026-07-07,C475,Sofa,Furniture,Pune,6,248028,39577
+2354,2026-04-11,C153,T-Shirt,Apparel,Delhi,5,2315,768
+2356,2026-03-04,C304,Jacket,Apparel,Delhi,2,7966,2008
+2361,2026-08-10,C068,Skincare Set,BEAUTY,Delhi,2,7748,2648
+2363,2026-02-06,C462,Jeans,Apparel,Pune,3,3828,1068
+2364,2026-02-05,C119,Vacuum Cleaner,Home,Hyderabad,6,29514,6371
+2370,2026-01-10,C127,Jacket,apparel,Bangalore,3,10713,2723
+2376,2026-05-04,C411,Blender,Home,Unknown,1,3692,863
+2378,2026-07-02,C424,Smartwatch,Electronics,Mumbai,3,57054,11265
+2383,2026-08-07,C421,Shoes,Apparel,Hyderabad,4,6924,1597
+2384,2026-07-04,C373,Smartwatch,Electronics,DELHI,1,19215,3981
+2387,2026-03-01,C091,Phone,Electronics,hyderabad,1,46493,5361
+2389,2026-07-03,C476,Headphones,Electronics,Mumbai,6,40218,6301
+2391,2026-08-11,C025,Smartwatch,Electronics,Hyderabad,2,37088,7467
+2392,2026-02-10,C082,Blender,Home,Pune,4,9868,1994
+2396,2026-03-11,C114,Desk,Furniture,pune,1,13755,2564
+2399,2026-01-07,C377,Jacket,Apparel,Hyderabad,2,9654,2580
+2403,2026-04-02,C155,Cookware Set,home,Bangalore,6,32076,7339
+2406,2026-03-01,C442,Perfume,Beauty,Hyderabad,3,12039,3834
+2408,2026-01-11,C391,Skincare Set,Beauty,Chennai,6,13248,4042
+2411,2026-03-02,C003,Laptop,Electronics,kolkata,1,68499,8171
+2413,2026-01-12,C370,Camera,Electronics,Bangalore,5,282205,28872
+2414,2026-03-08,C479,Speaker,Electronics,Pune,1,6035,1104
+2420,2026-08-12,C377,Perfume,Beauty,chennai,3,5289,1969
+2422,2026-05-11,C097,Tablet,Electronics,Hyderabad,4,89132,8961
+2425,2026-03-03,C273,Kurta,Apparel,Bangalore,1,1828,535
+2426,2026-07-06,C002,Smartwatch,ELECTRONICS,Hyderabad,4,69752,15052
+2429,2026-07-06,C384,Kurta,Apparel,Unknown,4,9992,2875
+2431,2026-08-06,C472,Smartwatch,Electronics,kolkata,5,89000,16549
+2435,2026-05-07,C155,Camera,Electronics,Kolkata,6,351984,53932
+2437,2026-08-06,C479,Cookware Set,Home,Bangalore,3,18678,4114
+2439,2026-07-05,C236,Jacket,Apparel,Pune,2,3870,1351
+2450,2026-06-09,C051,Kurta,Apparel,Kolkata,5,6375,1880
+2451,2026-02-01,C293,Jacket,Apparel,Pune,1,2518,832
+2458,2026-04-07,C305,Microwave,Home,Mumbai,4,56652,10212
+2459,2026-02-07,C346,Cookware Set,home,Hyderabad,3,21795,5421
+2460,2026-04-05,C406,T-Shirt,Apparel,Mumbai,6,3528,1091
+2461,2026-04-11,C140,Jacket,Apparel,Hyderabad,1,3337,1113
+2462,2026-02-05,C413,Phone,Electronics,Kolkata,5,258395,28359
+2464,2026-04-06,C043,Camera,Electronics,Bangalore,3,208317,23427
+2468,2026-02-04,C365,Vacuum Cleaner,Home,Chennai,6,24000,4726
+2470,2026-03-06,C261,Cookware Set,Home,kolkata,2,5098,1062
+2471,2026-05-04,C230,Bookshelf,Furniture,mumbai,3,33249,6325
+2472,2026-01-03,C072,Headphones,ELECTRONICS,Kolkata,6,43386,8270
+2473,2026-06-09,C171,Camera,Electronics,Bangalore,4,163432,17113
+2481,2026-07-01,C323,Skincare Set,beauty,Delhi,4,9028,3071
+2483,2026-02-07,C317,Table,Furniture,pune,4,32000,6655
+2484,2026-06-05,C396,Kurta,Apparel,Delhi,1,1189,317
+2486,2026-06-01,C216,Shoes,apparel,Kolkata,4,15388,4897
+2489,2026-03-07,C280,Jeans,Apparel,Mumbai,5,11340,3920
+2491,2026-05-07,C095,Laptop,Electronics,Pune,5,246540,25248
+2493,2026-02-10,C176,Cookware Set,Home,Hyderabad,5,38670,7809
+2496,2026-06-12,C415,Smartwatch,Electronics,Mumbai,5,50220,9863
+2498,2026-04-12,C262,Laptop,Electronics,Bangalore,2,121504,16212
+2500,2026-06-05,C467,Bookshelf,Furniture,Hyderabad,6,65208,14643
+2510,2026-04-09,C044,Perfume,Beauty,Pune,1,4980,1797
+2513,2026-08-06,C229,Headphones,Electronics,Mumbai,3,7116,1502
+2515,2026-03-09,C391,Desk,Furniture,Pune,3,42558,8987
+2517,2026-04-06,C306,Microwave,Home,Chennai,5,71495,10638
+2520,2026-04-12,C329,Headphones,Electronics,Bangalore,2,6248,1103
+2526,2026-06-09,C130,Blender,Home,Hyderabad,3,14238,2289
+2528,2026-08-08,C133,Chair,Furniture,Mumbai,3,18033,4161
+2532,2026-08-08,C393,Bookshelf,Furniture,Delhi,3,25338,5641
+2533,2026-04-03,C035,Jacket,Apparel,DELHI,5,14870,4785
+2534,2026-03-08,C249,T-Shirt,Apparel,Bangalore,5,4390,1164
+2535,2026-06-09,C015,Desk,Furniture,Hyderabad,4,44832,10684
+2538,2026-01-01,C070,Camera,Electronics,Kolkata,2,73060,7404
+2541,2026-02-01,C183,Sofa,Furniture,Mumbai,1,30717,6695
+2542,2026-05-04,C447,Jacket,Apparel,Delhi,1,4045,1376
+2543,2026-01-03,C012,Jacket,Apparel,Mumbai,6,10872,2889
+2544,2026-01-01,C336,Blender,home,Kolkata,4,6072,1009
+2545,2026-01-05,C474,Desk,Furniture,bangalore,3,18282,4065
+2546,2026-01-04,C274,Kurta,Apparel,Hyderabad,4,4468,1485
+2547,2026-03-10,C465,Jacket,Apparel,Mumbai,6,22644,6872
+2548,2026-02-03,C032,Shoes,apparel,Hyderabad,6,28620,7340
+2549,2026-02-11,C221,Smartwatch,Electronics,Unknown,3,21417,4269
+2552,2026-02-12,C476,Chair,Furniture,Pune,4,35208,7689
+2554,2026-08-02,C327,T-Shirt,APPAREL,Delhi,6,2106,528
+2558,2026-06-12,C476,Cookware Set,home,Delhi,2,11066,2136
+2565,2026-08-08,C428,Chair,Furniture,Pune,3,9522,2279
+2566,2026-08-12,C275,Tablet,Electronics,Chennai,2,41382,5706
+2569,2026-07-01,C434,Jacket,Apparel,Pune,5,18910,5850
+2570,2026-05-03,C368,Shoes,Apparel,Pune,4,23524,5999
+2572,2026-03-09,C365,Kurta,Apparel,Kolkata,5,10780,3372
+2576,2026-06-11,C248,Sofa,Furniture,bangalore,6,101364,17303
+2582,2026-08-12,C218,Smartwatch,ELECTRONICS,Mumbai,3,23664,4451
+2584,2026-01-12,C269,Tablet,Electronics,Pune,5,95510,14404
+2591,2026-05-04,C107,Shoes,Apparel,Delhi,6,18108,4176
+2592,2026-03-10,C137,Cookware Set,Home,Mumbai,1,5638,1064
+2594,2026-07-09,C172,Camera,Electronics,Hyderabad,2,40164,5840
+2598,2026-06-03,C442,Desk,Furniture,Pune,3,34692,4449
+2599,2026-01-02,C442,Smartwatch,electronics,Chennai,1,15947,3226
+2605,2026-06-04,C012,Microwave,Home,Hyderabad,2,21248,4121
+2606,2026-08-12,C035,Speaker,Electronics,Mumbai,5,43950,7386
+2611,2026-03-05,C053,T-Shirt,apparel,Mumbai,4,3872,1134
+2618,2026-04-02,C262,Sofa,furniture,Pune,5,79500,15981
+2624,2026-04-10,C205,Headphones,electronics,Delhi,4,25412,4379
+2625,2026-03-11,C452,Desk,Furniture,Kolkata,1,6786,4449
+2627,2026-05-12,C077,Cookware Set,Home,Mumbai,6,28134,7168
+2628,2026-05-01,C359,Blender,Home,Pune,4,14396,2932
+2630,2026-05-12,C162,Smartwatch,Electronics,Chennai,3,36996,6320
+2637,2026-07-01,C095,Headphones,Electronics,HYDERABAD,6,44994,6813
+2638,2026-05-08,C446,Sofa,Furniture,Bangalore,6,159342,23950
+2639,2026-03-04,C327,Cookware Set,Home,pune,2,7802,1709
+2643,2026-02-07,C046,Smartwatch,electronics,Kolkata,4,70256,11432
+2645,2026-05-01,C404,Microwave,Home,Chennai,1,11989,2362
+2646,2026-02-09,C256,Table,Furniture,Delhi,6,104718,22339
+2649,2026-03-08,C476,Tablet,Electronics,Mumbai,3,58125,7071
+2655,2026-01-02,C081,Chair,Furniture,Chennai,5,24410,5935
+2659,2026-03-09,C367,T-Shirt,Apparel,Delhi,2,706,208
+2664,2026-08-04,C433,Laptop,Electronics,Hyderabad,5,317525,34045
+2669,2026-04-10,C244,Speaker,Electronics,Hyderabad,6,63336,10118
+2670,2026-06-07,C412,Shoes,Apparel,pune,5,25540,8156
+2671,2026-02-04,C241,Jeans,Apparel,Delhi,2,3316,1133
+2672,2026-07-10,C187,Skincare Set,beauty,Pune,4,5556,2077
+2682,2026-08-07,C183,Kurta,Apparel,Mumbai,6,4614,1292
+2686,2026-02-09,C311,Desk,Furniture,Hyderabad,2,21586,4432
+2689,2026-08-11,C244,Blender,Home,Delhi,5,19835,4038
+2690,2026-07-02,C476,Headphones,Electronics,Hyderabad,3,14145,3150
+2692,2026-04-02,C066,Chair,Furniture,Bangalore,3,23559,4293
+2694,2026-04-12,C167,Laptop,Electronics,mumbai,5,375555,47428
+2696,2026-06-03,C036,Camera,Electronics,Bangalore,1,69324,10632
+2701,2026-03-08,C143,Tablet,Electronics,delhi,1,21496,2247
+2704,2026-01-08,C258,Jeans,Apparel,Hyderabad,2,4798,1310
+2705,2026-03-11,C155,Headphones,Electronics,Chennai,3,5313,833
+2706,2026-06-06,C114,Jacket,Apparel,Pune,1,4330,1433
+2707,2026-07-10,C014,Bookshelf,Furniture,BANGALORE,1,10077,2197
+2711,2026-04-07,C442,Blender,Home,Mumbai,4,8768,1970
+2713,2026-04-03,C397,Jacket,Apparel,hyderabad,1,3206,897
+2717,2026-06-11,C340,Smartwatch,Electronics,Delhi,1,3454,758
+2719,2026-03-12,C055,Blender,home,Chennai,6,13320,2501
+2722,2026-07-04,C438,Bookshelf,Furniture,Delhi,3,15603,3147
+2723,2026-03-01,C270,Camera,Electronics,CHENNAI,4,237412,26506
+2724,2026-02-06,C198,Chair,Furniture,Chennai,2,11520,2265
+2726,2026-01-05,C055,Blender,Home,Hyderabad,3,10209,1715
+2728,2026-06-05,C024,Jeans,Apparel,Mumbai,5,12775,3657
+2734,2026-07-04,C449,Speaker,Electronics,Hyderabad,5,47025,7757
+2736,2026-05-06,C406,Phone,Electronics,Pune,6,81126,4449
+2737,2026-05-09,C009,T-Shirt,Apparel,Chennai,3,1683,554
+2738,2026-03-09,C473,Bookshelf,Furniture,Chennai,1,8531,1905
+2740,2026-01-12,C155,Sofa,Furniture,Pune,3,69687,13354
+2742,2026-01-11,C145,Bookshelf,Furniture,Delhi,2,19910,4667
+2744,2026-06-03,C056,Camera,Electronics,Pune,1,22042,3335
+2753,2026-01-03,C155,Phone,Electronics,Kolkata,6,312324,26901
+2754,2026-01-11,C155,Makeup Kit,Beauty,Bangalore,5,5710,1788
+2763,2026-02-11,C044,Shoes,Apparel,MUMBAI,2,10062,2782
+2765,2026-03-05,C400,Jacket,Apparel,Pune,3,8319,2234
+2768,2026-04-01,C479,Sofa,Furniture,Hyderabad,1,23418,-1619
+2769,2026-01-08,C431,Camera,electronics,Mumbai,5,256900,27577
+2770,2026-08-03,C262,Makeup Kit,Beauty,Mumbai,3,5778,2079
+2772,2026-04-12,C415,Speaker,Electronics,MUMBAI,3,18978,4081
+2773,2026-08-07,C302,Jacket,Apparel,Hyderabad,3,4578,1245
+2776,2026-02-09,C448,Speaker,Electronics,mumbai,3,16104,3002
+2781,2026-04-11,C261,Sofa,furniture,kolkata,3,72825,11937
+2786,2026-05-07,C304,Desk,Furniture,Kolkata,4,58740,11571
+2787,2026-03-03,C446,Desk,Furniture,Kolkata,3,31455,7312
+2790,2026-01-01,C315,Cookware Set,Home,delhi,5,25555,6113
+2791,2026-04-12,C296,Speaker,Electronics,Pune,3,7440,1139
+2796,2026-03-05,C199,Chair,Furniture,Hyderabad,1,4789,910
+2797,2026-05-07,C249,Jeans,apparel,Delhi,6,17208,4322
+2801,2026-04-08,C384,Laptop,Electronics,Pune,3,135378,15906
+2803,2026-08-07,C316,Speaker,Electronics,DELHI,6,71892,11253
+2804,2026-06-03,C037,Phone,Electronics,Bangalore,1,57424,5412
+2805,2026-03-12,C135,Shoes,Apparel,Hyderabad,6,22194,5609
+2807,2026-07-08,C246,Cookware Set,home,Bangalore,3,24228,5112
+2808,2026-08-09,C026,Vacuum Cleaner,Home,Bangalore,6,52554,12265
+2809,2026-07-01,C070,Phone,ELECTRONICS,Kolkata,2,111036,11805
+2810,2026-07-08,C141,Jeans,Apparel,Mumbai,6,10902,3237
+2815,2026-01-12,C306,Perfume,Beauty,delhi,1,5080,1986
+2817,2026-01-01,C113,Desk,Furniture,Pune,1,7650,1406
+2819,2026-08-06,C002,Table,furniture,Pune,6,36774,7498
+2820,2026-06-06,C003,Blender,Home,Mumbai,2,9238,2084
+2821,2026-06-07,C116,Shoes,Apparel,Chennai,3,9321,2619
+2828,2026-06-01,C154,Bookshelf,Furniture,Delhi,6,36930,9343
+2829,2026-03-10,C464,Table,Furniture,mumbai,5,378450,69348
+2839,2026-08-02,C479,Jeans,Apparel,CHENNAI,6,8400,2488
+2843,2026-01-07,C224,Kurta,Apparel,PUNE,5,5670,1910
+2846,2026-05-06,C367,Phone,Electronics,Delhi,5,212090,21875
+2849,2026-04-06,C413,Makeup Kit,Beauty,Chennai,4,19464,6810
+2851,2026-03-01,C412,Camera,Electronics,Mumbai,6,134772,14094
+2852,2026-07-10,C002,Speaker,Electronics,CHENNAI,1,4224,715
+2853,2026-08-03,C317,Microwave,Home,mumbai,2,28972,4821
+2854,2026-05-09,C031,Bookshelf,Furniture,bangalore,6,56448,12339
+2856,2026-03-11,C034,Camera,Electronics,Kolkata,5,223720,32989
+2858,2026-07-03,C352,Cookware Set,Home,Kolkata,2,6548,1630
+2859,2026-02-11,C056,Sofa,furniture,Chennai,1,36070,7879
+2860,2026-03-12,C199,Tablet,Electronics,Pune,6,139278,19133
+2862,2026-08-01,C193,Headphones,electronics,Bangalore,6,13194,1979
+2866,2026-06-09,C037,Speaker,Electronics,Pune,1,9376,1434
+2868,2026-07-03,C185,Tablet,Electronics,Kolkata,1,18223,2387
+2869,2026-02-10,C468,Smartwatch,Electronics,Hyderabad,3,47784,8482
+2870,2026-07-01,C338,Phone,Electronics,Pune,4,55768,4911
+2871,2026-08-07,C347,Phone,electronics,Kolkata,4,175608,14839
+2872,2026-06-01,C189,Cookware Set,Home,Hyderabad,2,8646,2112
+2874,2026-04-05,C004,Jeans,Apparel,Kolkata,5,4435,1545
+2876,2026-01-03,C451,Blender,Home,Pune,5,13285,2773
+2877,2026-06-06,C306,Desk,furniture,Delhi,3,42153,8798
+2879,2026-01-11,C368,Laptop,Electronics,Pune,1,51502,4853
+2880,2026-07-09,C062,Skincare Set,Beauty,Mumbai,5,6290,1937
+2882,2026-03-04,C035,Shoes,Apparel,Chennai,2,2882,845
+2883,2026-05-01,C263,Desk,Furniture,hyderabad,1,5729,1260
+2885,2026-07-04,C005,Phone,Electronics,CHENNAI,1,13363,1385
+2888,2026-08-01,C248,Vacuum Cleaner,Home,Pune,3,36903,6019
+2889,2026-06-08,C282,Blender,Home,Kolkata,1,3542,730
+2892,2026-07-03,C274,Sofa,Furniture,Pune,4,159460,29680
+2896,2026-03-08,C424,Laptop,Electronics,Chennai,3,178965,22614
+2899,2026-02-09,C342,Jeans,Apparel,Bangalore,2,4500,1487
+2900,2026-08-12,C141,Bookshelf,FURNITURE,Bangalore,1,4930,1250
+2902,2026-02-09,C397,Skincare Set,Beauty,Pune,6,19818,7401
+2903,2026-05-11,C234,Vacuum Cleaner,home,Kolkata,5,28720,6001
+2908,2026-02-01,C227,Cookware Set,Home,Pune,2,6314,1511
+2909,2026-04-02,C163,Camera,Electronics,Mumbai,6,210882,33469
+2912,2026-03-01,C303,Smartwatch,Electronics,Chennai,4,65560,11075
+2916,2026-04-03,C085,Bookshelf,furniture,Mumbai,1,6958,1517
+2924,2026-03-11,C318,Kurta,Apparel,Chennai,1,1504,478
+2926,2026-05-04,C038,Camera,Electronics,Pune,6,224580,31486
+2927,2026-07-05,C216,Desk,Furniture,DELHI,4,44460,10065
+2930,2026-07-04,C306,Table,Furniture,Delhi,2,38928,8060
+2931,2026-07-06,C192,Laptop,Electronics,Hyderabad,1,62930,6917
+2932,2026-05-06,C116,Sofa,Furniture,Bangalore,5,146705,29483
+2933,2026-03-06,C476,Makeup Kit,BEAUTY,Bangalore,3,13239,4539
+2934,2026-02-10,C241,Shoes,APPAREL,Kolkata,4,10788,3113
+2935,2026-08-01,C353,Laptop,Electronics,Delhi,1,48868,4315
+2940,2026-03-09,C474,Speaker,Electronics,Pune,3,18147,2835
+2941,2026-07-01,C199,Table,Furniture,KOLKATA,3,43707,9166
+2947,2026-04-09,C390,Makeup Kit,BEAUTY,Bangalore,2,3232,1095
+2952,2026-06-08,C472,Smartwatch,Electronics,Kolkata,4,18684,4060
+2957,2026-05-12,C476,Blender,Home,bangalore,1,1730,307
+2958,2026-07-02,C151,Jacket,Apparel,Chennai,3,9444,2751
+2961,2026-04-01,C199,Chair,Furniture,chennai,2,8986,1901
+2967,2026-03-06,C391,Speaker,Electronics,Chennai,3,26292,5453
+2968,2026-07-11,C416,T-Shirt,Apparel,Chennai,3,1206,337
+2969,2026-07-01,C231,Jacket,Apparel,Kolkata,3,7578,2640
+2972,2026-01-12,C104,Chair,Furniture,Kolkata,2,9542,1866
+2973,2026-01-04,C034,Cookware Set,home,chennai,1,8830,2029
+2974,2026-08-10,C179,Tablet,Electronics,Hyderabad,6,105564,12939
+2976,2026-01-04,C474,Phone,electronics,Delhi,6,354714,46702
